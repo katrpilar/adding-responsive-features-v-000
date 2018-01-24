@@ -6,6 +6,8 @@
   #social{
     position:absolute;
     top:82px;
-    right:;
+    right:4%;
+    width:auto;
+    display:inline-block;
   }
 }
